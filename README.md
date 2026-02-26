@@ -1,4 +1,4 @@
-🏠 AirBnB Data Analysis – Python 
+🏠 AirBnB Data Analysis – Python & Jupyter notebook
 
 This project explores and analyzes an Airbnb dataset to uncover insights about pricing, room types, neighborhoods, and review trends. The goal was to clean the raw data, handle inconsistencies, and perform exploratory data analysis (EDA) to better understand patterns that influence listings and customer engagement.
 
