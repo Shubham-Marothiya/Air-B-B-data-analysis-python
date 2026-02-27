@@ -6,28 +6,28 @@ The analysis began with thorough data cleaning — handling missing values, remo
 
 Using Pandas for data manipulation and Matplotlib/Seaborn for visualization, I examined:
 
-1) Distribution of listing prices
+1) Distribution of listing prices.
 
-2) Room type availability and frequency
+2) Room type availability and frequency.
 
-3) Neighborhood-wise listing distribution
+3) Neighborhood-wise listing distribution.
 
-4) Relationship between price and room type
+4) Relationship between price and room type.
 
-5) Trends in number of reviews over time
+5) Trends in number of reviews over time.
 
-6) Descriptive statistics for key variables
+6) Descriptive statistics for key variables.
 
 Key observations show that listing prices are fairly evenly distributed with no extreme spikes, room type significantly impacts pricing, and review trends provide insights into listing popularity and demand over time.
 
 This project demonstrates practical skills in:
 
-Data cleaning and preprocessing
+1) Data cleaning and preprocessing.
 
-Exploratory Data Analysis (EDA)
+2) Exploratory Data Analysis (EDA).
 
-Data visualization
+3) Data visualization.
 
-Insight extraction from real-world datasets
+4) Insight extraction from real-world datasets.
 
 Overall, this analysis reflects a structured approach to transforming raw data into meaningful insights that could help hosts optimize pricing strategies or guide customers in making informed booking decisions.
