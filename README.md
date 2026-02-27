@@ -6,17 +6,17 @@ The analysis began with thorough data cleaning — handling missing values, remo
 
 Using Pandas for data manipulation and Matplotlib/Seaborn for visualization, I examined:
 
-Distribution of listing prices
+1) Distribution of listing prices
 
-Room type availability and frequency
+2) Room type availability and frequency
 
-Neighborhood-wise listing distribution
+3) Neighborhood-wise listing distribution
 
-Relationship between price and room type
+4) Relationship between price and room type
 
-Trends in number of reviews over time
+5) Trends in number of reviews over time
 
-Descriptive statistics for key variables
+6) Descriptive statistics for key variables
 
 Key observations show that listing prices are fairly evenly distributed with no extreme spikes, room type significantly impacts pricing, and review trends provide insights into listing popularity and demand over time.
 
